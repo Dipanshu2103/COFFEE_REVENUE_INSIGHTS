@@ -1,1 +1,1 @@
-# COFFEE_REVENUE_INSIGHTS
+**This project is based on analyzing coffee product sales across various cities. I used four main tables: city, customers, sales, and products. The project includes 15 SQL queries to explore insights like revenue, coffee consumers, top-selling products, and market potential. I’ve used CTEs, window functions, joins, and aggregate functions wherever required. All queries are structured to answer real-world business questions. The database used is sql_project. The goal was to practice SQL skills using a dataset that mimics a real business scenario**
